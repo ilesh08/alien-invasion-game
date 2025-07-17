@@ -19,6 +19,7 @@ This is a simple **2D shooting game** built with **Python** and **Pygame** where
 - **Left/Right Arrows** – Move the spaceship  
 - **Spacebar** – Fire bullets  
 - Defeat all aliens to win!
+- If you collide with the alien its game over do try it
 
 ---
 
