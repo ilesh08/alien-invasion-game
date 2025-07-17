@@ -29,3 +29,15 @@ This is a simple **2D shooting game** built with **Python** and **Pygame** where
   Install with:
   ```bash
   pip install pygame
+
+---
+
+## Screenshots
+<img width="996" height="791" alt="image" src="https://github.com/user-attachments/assets/831b5d24-3f24-4961-9e77-0a5bf2ebe7ef" />
+
+
+
+
+
+
+
