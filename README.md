@@ -36,6 +36,12 @@ This is a simple **2D shooting game** built with **Python** and **Pygame** where
 ## Screenshots
 <img width="996" height="791" alt="image" src="https://github.com/user-attachments/assets/831b5d24-3f24-4961-9e77-0a5bf2ebe7ef" />
 
+---
+## How to run the program
+clone the repo and run the program 
+
+Thank you for visiting my repo if you liked it please give it a star, Thank you!!
+
 
 
 
